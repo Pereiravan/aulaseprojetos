@@ -28,7 +28,7 @@ img
 }
 .card
 {
-  background-image: linear-gradient(rgb(4, 58, 75) , rgb(96, 197, 228));
+  background-image: linear-gradient(rgb(145, 165, 172) , rgb(96, 197, 228));
   box-shadow: -1px 0px 2px 0px #ffffff ,
               1px 0px 2px 0px #000000  ;
   cursor: pointer;
